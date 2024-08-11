@@ -1,0 +1,14 @@
+.bg-container{
+    background-image: url('bg.png');
+    background-size: cover;
+    padding: 20px;
+
+}
+.title{
+    font-size: 18px;
+    font-family: 'roboto';
+}
+.image1{
+    width: 600px;
+    padding-top: 30px;
+}
